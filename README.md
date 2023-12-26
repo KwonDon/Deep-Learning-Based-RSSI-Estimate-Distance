@@ -1,6 +1,7 @@
-# Deep-Learning-Based-RSSI-Estimate-Distance
-Implement deep learning-based models with RSSI data collected from various distances <br/>
-Code -> 실제 모델을 만들고 학습시키고 성능평가한 코드를 정리 </br>
-Raw_Data -> 스캔된 RSSI 신호 CSV 파일로 정리 &nbsp; <br/>
+### Journal Papers (written in Korean) <br>
+__Hyeok-Don Kwon__, Sol-Bee Lee, Jung-Hyok Kwon, Eui-Jik Kim, “Smoothed RSSI-Based Distance Estimation Using Deep Neural Network”, Journal of Internet of Things and Convergence, pp. 71-76 Apr. 2023 [KCI] <br>
 
-해당 연구 논문 작성 중..
+### PATENTS 
+Eui-Jik Kim, __Hyeok-Don Kwon__, Sol-Bee Lee, Jung-Hyok Kwon, “Electronic apparatus for performing smoothing based preprocessing for RSSI value corresponding input data of artificial intelligence model”, KR-Application No. 10-2022-0179501, Dec 2022
+
+Eui-Jik Kim, __Hyeok-Don Kwon__, Sol-Bee Lee, Jung-Hyok Kwon, “Electronic apparatus for including multi-input deep neural network model for performing distance estimation”, KR-Application No. 10-2022-0179502, Dec 2022
